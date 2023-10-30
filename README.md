@@ -45,4 +45,4 @@ Feel free to fork this repository and submit your pull requests. We appreciate y
 For any questions, feedback, or issues, please feel free to open an issue in this repository.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://mit-license.org/).
