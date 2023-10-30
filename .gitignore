@@ -424,7 +424,7 @@ test-results/
 
 # Mac bundle stuff
 *.dmg
-*.app
+#*.app
 
 # content below from: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
 # General
